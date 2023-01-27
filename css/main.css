@@ -1,0 +1,22 @@
+.cantiener{
+    background-color: rgb(61, 57, 57);
+    width: 220px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+}
+.stop{
+
+    background-color: rgb(61, 57, 57);
+    width: 220px;
+    text-align: center;
+    margin: auto;
+    border-radius: 1%;
+} .cantenr{
+    background-color: rgb(61, 57, 57);
+    width: 220px;
+    text-align: center;
+    margin: auto;
+    border-radius: 1%;
+    max-block-size: 220px;
+}
